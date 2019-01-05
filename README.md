@@ -9,6 +9,6 @@
 ##运行截图：
 ![欢迎界面](https://github.com/Jackzhng/DDDUR2018F_516202910019/blob/master/1.png)
 ![第二个界面](https://github.com/Jackzhng/DDDUR2018F_516202910019/blob/master/2.png)
-![第三个界面]
+![第三个界面](https://github.com/Jackzhng/DDDUR2018F_516202910019/blob/master/3.png)
 ![第四个界面（一）](https://github.com/Jackzhng/DDDUR2018F_516202910019/blob/master/4.1.png)
 ![第四个界面（二）](https://github.com/Jackzhng/DDDUR2018F_516202910019/blob/master/4.2.png)
